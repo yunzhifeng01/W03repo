@@ -7,5 +7,8 @@ public class User{
 	public  void showUserName(){
 		
 	}
-	
+	//远程添加计算年龄方法
+	 public void addAge(){
+	 //ggggggggggggggggggggggg
+	 }
 }
